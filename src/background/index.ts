@@ -7,8 +7,8 @@ const logExtensionLoaded = () => {
 runtime.onInstalled.addListener(logExtensionLoaded)
 
 chrome.contextMenus.create({
-  id: "open-at-indivious",
-  title: "Open at indivious",
+  id: "open-at-invidious",
+  title: "Open at Invidious",
   contexts:["link"],
   documentUrlPatterns: ["https://www.youtube.com/*"]
 });

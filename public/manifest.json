@@ -1,6 +1,6 @@
 {
     "manifest_version": 3,
-    "name": "My Extension",
+    "name": "Open at invidious",
     "version": "1.0.0",
     "description": "A simple Chrome extension with React.",
     "icons": {
