@@ -1,7 +1,7 @@
 import { runtime } from 'webextension-polyfill'
 
 const logExtensionLoaded = () => {
-  console.log('Open at Indivous loaded.')
+  console.log('Open at Invidious loaded.')
 }
 
 runtime.onInstalled.addListener(logExtensionLoaded)
