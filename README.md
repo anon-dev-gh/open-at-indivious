@@ -12,11 +12,5 @@ A chrome extension that adds a contextal menu at youtube.com that allows you to 
 
 
 ## Usage
-* Simply right click on video links when browsing youtube and click on "open in invidious"
-
-
-- - -
-
-## Example 
-
+* Simply right click on video links when browsing youtube and click on "open in invidious":
 ![invidious-2](https://github.com/anon-dev-gh/open-at-invidious/assets/148810564/8631efbb-d397-4548-9fc0-af30b6a4654f)
